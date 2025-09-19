@@ -25,8 +25,11 @@ An interactive dashboard is built with Streamlit to visualize insights like acti
 
     pip install -r requirements.txt
 
-4. Run the ETL pipeline: `index.py` and this will generate 'health_data.db'
+4. Make sure that in line 7 to change 'username' to your computer's username or
+   change alltogether the relative path of the csv file.
+   
+5.  Run the ETL pipeline: `index.py` and this will generate 'health_data.db'
 
-5. Running the dashboard
+6. Running the dashboard
    streamlit run dashboard.py 
    
