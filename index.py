@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 # ----------------
 # Extract
 # ----------------
-df = pd.read_csv("/Users/fatimapardesi/Desktop/ETL/venv/unclean_smartwatch_health_data.csv")
+df = pd.read_csv("/Users/username/Desktop/ETL/venv/unclean_smartwatch_health_data.csv")
 
 # ----------------
 # Transform (cleaning)
