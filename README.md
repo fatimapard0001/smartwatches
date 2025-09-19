@@ -17,7 +17,7 @@ An interactive dashboard is built with Streamlit to visualize insights like acti
 # How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/smartwatch-health-etl.git
+   git clone https://github.com/yourusername/smartwatches.git
 
 2. Change the 
 
