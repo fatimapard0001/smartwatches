@@ -19,17 +19,16 @@ An interactive dashboard is built with Streamlit to visualize insights like acti
    ```bash
    git clone https://github.com/yourusername/smartwatches.git
 
-2. Change the 
 
-3. Install dependencies
+2. Install dependencies
 
     pip install -r requirements.txt
 
-4. Make sure that in line 7 to change 'username' to your computer's username or
+3. Make sure that in line 7 to change 'username' to your computer's username or
    change alltogether the relative path of the csv file.
    
-5.  Run the ETL pipeline: `index.py` and this will generate 'health_data.db'
+4.  Run the ETL pipeline: `index.py` and this will generate 'health_data.db'
 
-6. Running the dashboard
+5. Running the dashboard
    streamlit run dashboard.py 
    
